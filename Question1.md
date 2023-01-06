@@ -5,6 +5,7 @@ code is freely available. It is free to use. Linux was designed considering UNIX
 compatibility. Its functionality list is quite similar to that of UNIX.
 
 ### Structure
+![downloawd](https://user-images.githubusercontent.com/121249402/211029856-02e6b424-63eb-43e2-bfc0-d9a42054d675.jpg)
 
 
 
